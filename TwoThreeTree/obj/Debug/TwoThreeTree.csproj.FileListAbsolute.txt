@@ -1,0 +1,8 @@
+C:\Users\ZhouYuxing\Desktop\TwoThreeTree\TwoThreeTree\bin\Debug\TwoThreeTree.exe.config
+C:\Users\ZhouYuxing\Desktop\TwoThreeTree\TwoThreeTree\obj\Debug\TwoThreeTree.Properties.Resources.resources
+C:\Users\ZhouYuxing\Desktop\TwoThreeTree\TwoThreeTree\obj\Debug\TwoThreeTree.csproj.GenerateResource.Cache
+C:\Users\ZhouYuxing\Desktop\TwoThreeTree\TwoThreeTree\bin\Debug\TwoThreeTree.exe
+C:\Users\ZhouYuxing\Desktop\TwoThreeTree\TwoThreeTree\bin\Debug\TwoThreeTree.pdb
+C:\Users\ZhouYuxing\Desktop\TwoThreeTree\TwoThreeTree\obj\Debug\TwoThreeTree.exe
+C:\Users\ZhouYuxing\Desktop\TwoThreeTree\TwoThreeTree\obj\Debug\TwoThreeTree.pdb
+C:\Users\ZhouYuxing\Desktop\TwoThreeTree\TwoThreeTree\obj\Debug\TwoThreeTree.form.resources
